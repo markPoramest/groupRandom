@@ -7,7 +7,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-
         List<String> allOfNames = new ArrayList<>();
         System.out.print("Enter the names of all the students (separated by a space): ");
         while (true) {
